@@ -1,4 +1,4 @@
-# Security Documentation Chatbot
+<h1 align="center">Security Documentation Chatbot</h1> 
 
 This chatbot is designed to assist users within your organization in navigating the vast landscape of cybersecurity guidelines, frameworks, and compliance documents.
 
