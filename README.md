@@ -35,6 +35,7 @@ git clone https://github.com/NotSooShariff/security-docs-guide-chatbot.git
 2. Activate the virtual environment
 
 ```
+python -m venv venv
 venv\Scripts\activate
 ```
 
