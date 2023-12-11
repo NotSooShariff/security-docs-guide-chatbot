@@ -1,0 +1,119 @@
+## Title: Acceptable Use Policy (AUP)
+Content: Defines the acceptable ways employees may use company resources, including computers, networks, and the internet. It outlines prohibited activities to ensure a secure computing environment.
+
+## Title: Information Security Policy
+Content: Establishes the guidelines and best practices for protecting sensitive information. Covers data classification, access controls, encryption, and incident response procedures.
+
+## Title: Data Breach Response Plan
+Content: Outlines the steps to be taken in the event of a data breach, including incident detection, containment, eradication, recovery, and lessons learned for continuous improvement.
+
+## Title: Security Awareness Training Materials
+Content: Provides resources for educating employees about cybersecurity best practices, including phishing awareness, password management, and social engineering.
+
+## Title: Incident Response Plan
+Content: Describes the procedures and responsibilities in responding to security incidents. Includes contact information for key personnel, escalation paths, and communication protocols.
+
+## Title: Remote Work Security Guidelines
+Content: Offers specific security measures for employees working remotely, covering VPN usage, secure Wi-Fi connections, and device security protocols.
+
+## Title: Security Incident Log
+Content: A template for documenting security incidents, including date, time, description, and actions taken. This log helps in analyzing patterns and improving incident response procedures.
+
+## Title: Security Patching Policy
+Content: Establishes procedures for keeping software, operating systems, and applications up-to-date with the latest security patches to address vulnerabilities.
+
+## Title: Bring Your Own Device (BYOD) Policy
+Content: Outlines the guidelines for employees using personal devices for work, ensuring they adhere to security standards and do not compromise company data.
+
+## Title: Physical Security Policy
+Content: Details the measures in place to protect physical access to company facilities, data centers, and critical infrastructure.
+
+## Title: Vendor Security Assessment Checklist
+Content: A checklist for evaluating and ensuring the security practices of third-party vendors, including their data handling and protection measures.
+
+## Title: Compliance Audit Checklist
+Content: A checklist to facilitate internal audits and ensure adherence to regulatory requirements. Includes areas such as data privacy, industry-specific regulations, and legal compliance.
+
+## Title: Data Retention and Destruction Policy
+Content: Specifies the guidelines for storing, retaining, and securely disposing of sensitive data in compliance with legal and regulatory requirements.
+
+## Title: NIST Cybersecurity Framework Implementation Guide
+Content: A comprehensive guide on implementing the National Institute of Standards and Technology (NIST) Cybersecurity Framework, including its core functions: Identify, Protect, Detect, Respond, and Recover.
+
+## Title: ISO 27001 Information Security Management System (ISMS)
+Content: Provides guidance on establishing, implementing, maintaining, and continually improving an Information Security Management System based on the ISO 27001 standard.
+
+## Title: CIS Critical Security Controls
+Content: Outlines a set of best practices designed to help organizations prioritize and implement essential cybersecurity measures, effectively reducing the risk of cyber attacks.
+
+## Title: GDPR Compliance Checklist
+Content: A checklist to ensure compliance with the General Data Protection Regulation (GDPR), covering data protection principles, individual rights, and obligations of data controllers and processors.
+
+## Title: HIPAA Security Rule Compliance Guide
+Content: A guide outlining the requirements of the Health Insurance Portability and Accountability Act (HIPAA) Security Rule, focusing on safeguarding electronic protected health information (ePHI).
+
+## Title: PCI DSS Compliance Checklist
+Content: A checklist for compliance with the Payment Card Industry Data Security Standard (PCI DSS), covering secure payment card processing and storage practices.
+
+## Title: SOC 2 Compliance Framework
+Content: Provides guidelines for meeting the requirements of Service Organization Control 2 (SOC 2) compliance, emphasizing security, availability, processing integrity, confidentiality, and privacy.
+
+## Title: Cybersecurity Maturity Model Certification (CMMC) Guidelines
+Content: Outlines the requirements and guidelines for achieving different levels of cybersecurity maturity as defined by the Cybersecurity Maturity Model Certification.
+
+## Title: ITIL (Information Technology Infrastructure Library) Security Management
+Content: Offers guidance on aligning IT service management with business goals, including practices for information security management within the ITIL framework.
+
+## Title: Cloud Security Alliance (CSA) Security Guidance
+Content: Provides best practices for securing cloud computing environments, covering areas such as data security, identity and access management, and incident response.
+
+## Title: OWASP Application Security Verification Standard
+Content: A guide for organizations to assess the security of their web and mobile applications, providing a framework for secure development and testing.
+
+## Title: National Cyber Security Centre (NCSC) Cyber Essentials
+Content: Outlines the fundamental cybersecurity measures that organizations can implement to protect against common cyber threats, as recommended by the NCSC.
+
+## Title: Federal Risk and Authorization Management Program (FedRAMP) Compliance Checklist
+Content: A checklist for ensuring compliance with FedRAMP, which standardizes the security assessment, authorization, and continuous monitoring of cloud products and services.
+
+## Title: Acceptable Encryption Policy
+Content: Outlines the standards and guidelines for encrypting sensitive data at rest, in transit, and during processing to ensure confidentiality and data protection.
+
+## Title: Disaster Recovery Plan
+Content: Details the procedures and strategies for recovering and restoring critical systems and data in the event of a disaster, ensuring business continuity.
+
+## Title: Business Continuity Plan (BCP)
+Content: Outlines the measures and processes to keep essential business functions running during and after a disruptive event, addressing both IT and non-IT aspects.
+
+## Title: Change Management Policy
+Content: Describes the procedures for implementing changes to IT systems and infrastructure to minimize the impact on security and operational stability.
+
+## Title: Mobile Device Management (MDM) Policy
+Content: Establishes guidelines for managing and securing mobile devices used by employees, including smartphones and tablets, to prevent data breaches and unauthorized access.
+
+## Title: Password Policy
+Content: Defines the rules for creating and managing strong, secure passwords, including password complexity, expiration, and the prohibition of password sharing.
+
+## Title: Network Security Policy
+Content: Outlines the principles and practices for securing the organization's network infrastructure, including firewalls, intrusion detection/prevention systems, and secure configurations.
+
+## Title: Social Media Usage Policy
+Content: Provides guidelines on the appropriate use of social media by employees to mitigate the risk of social engineering attacks and protect the company's reputation.
+
+## Title: Employee Code of Conduct
+Content: Defines the expected behavior and ethical standards for employees, emphasizing the importance of integrity and responsible use of company resources.
+
+## Title: IT Asset Management Policy
+Content: Establishes procedures for tracking and managing all IT assets throughout their lifecycle, ensuring proper inventory control and security measures.
+
+## Title: Remote Access Policy
+Content: Details the security measures and protocols for employees accessing company resources remotely, including the use of virtual private networks (VPNs) and multi-factor authentication.
+
+## Title: Physical Access Control Policy
+Content: Outlines the procedures for controlling and monitoring physical access to company premises, data centers, and other sensitive areas.
+
+## Title: User Account Management Policy
+Content: Defines the processes for creating, modifying, and deactivating user accounts, ensuring that access rights are granted based on job roles and responsibilities.
+
+## Title: IT Incident Reporting Procedures
+Content: Provides clear instructions on how employees should report any suspected or actual security incidents, including contact information and the necessary details to include in incident reports.
