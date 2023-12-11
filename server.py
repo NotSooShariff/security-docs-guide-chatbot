@@ -31,21 +31,17 @@ def create_prompt(user_input):
     return prompt
 
 def get_g4f_response(user_input):
-    # Set the model and provider
     model = g4f.models.gpt_35_turbo
     provider = g4f.Provider.Bing
 
-    # Create a message for the user input
     user_message = {"role": "user", "content": user_input}
 
-    # Call the ChatCompletion API
     response = g4f.ChatCompletion.create(
         model=model,
         provider=provider,
         messages=[user_message],
     )
 
-    # Extract and return the model's response
     if isinstance(response, list):
         return response[-1].get("content", "")
     elif isinstance(response, str):
@@ -70,18 +66,17 @@ def extract_information(g4f_response):
 
 @app.route('/response', methods=['POST', 'OPTIONS'])
 def response():
+    # Handling the preflight request 
     if request.method == 'OPTIONS':
-        # Handle preflight request
         response = app.make_default_options_response()
     elif request.method == 'POST':
         try:
             data = request.get_json(force=True)
-            user_input = data.get('user_input', '')  # assuming the input key is 'user_input'
+            user_input = data.get('user_input', '') 
 
             prompt = create_prompt(user_input)
             g4f_response = get_g4f_response(prompt)
 
-            # Extract relevant information from the g4f_response using regex
             extracted_json = extract_information(g4f_response)
 
             if extracted_json:
