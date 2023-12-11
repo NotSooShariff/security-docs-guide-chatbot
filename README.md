@@ -2,7 +2,7 @@
 
 <h1 align="center"> Security Documentation Chatbot 🤖📃 </h1> 
 
-This chatbot is designed to assist everyday users within your organization in navigating the vast landscape of cybersecurity guidelines, frameworks, and compliance documents.
+This is an AI-Based Chatbot designed to assist everyday users within your organization in navigating the vast landscape of cybersecurity guidelines, frameworks, and compliance documents.
 
 <img width="1280" alt="image" src="https://github.com/NotSooShariff/security-docs-guide-chatbot/assets/93514938/2582e7a3-f272-4cf8-af95-e44369fc562b">
 
